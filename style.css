@@ -9,8 +9,8 @@
             background-color: #f4f4f4;
         }
         footer{
-            height: 40vh;
-            background-color: #fff;
+            height: 30vh;
+            background-color: #7c7ce9;
 
         }
         .container{
@@ -191,6 +191,5 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            
-            
+             
         }
