@@ -8,6 +8,11 @@
             font-family: Arial, sans-serif;
             background-color: #f4f4f4;
         }
+        footer{
+            height: 40vh;
+            background-color: #fff;
+
+        }
         .container{
             width: 80%;
             margin: 0 auto;
@@ -176,4 +181,16 @@
             font-weight: bold;
             
 
+        }
+        main img{
+        margin: 30px;
+         width: 300px;
+        }
+        .foot{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            
+            
         }
